@@ -21,10 +21,10 @@
 			<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
 			<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
-		</dir>
-		<info compressed="false">http://cerbrepo.space/cerberus/addons.xml</info>
-		<checksum>http://cerbrepo.space/cerberus/addons.xml.md5</checksum>
-		<datadir zip="true">http://cerbrepo.space/cerberus</datadir>
+		</dir>		
+		<info compressed="false">https://raw.githubusercontent.com/asymt/hellhounds/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/asymt/hellhounds/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/asymt/hellhounds/master/zips/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">[COLOR red]Hellhounds Repository[/COLOR]</summary>
