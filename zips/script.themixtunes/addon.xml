@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.themixtunes"
+       name="The Mix Tunes"
+       version="2.4.1"
+       provider-name="Dj Eclipse">
+  <requires>
+    <import addon="xbmc.python" version="2.14.0"/>
+    <import addon="script.module.simplejson" version="2.0.10"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+     <provides>audio</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">The Mix Tunes</summary>
+    <summary lang="nl">The Mix Tunes</summary>
+    <summary lang="fr">The Mix Tunes</summary>
+    <summary lang="de">The Mix Tunes</summary>
+    <description lang="en">The Mix Tunes is re-thinking radio. Listen to great radio shows, Podcasts and DJ mix sets on-demand.</description>
+    <description lang="nl">The Mix Tunes herdefinieerd radio. Luister naar uitstekende radioshows, podcasts en dj sets on demand.</description>
+    <description lang="fr">The Mix Tunes redéfinit la radio. Écoutez les émissions radio, podcasts et mixes DJ sur demande.</description>
+    <description lang="de">The Mix Tunes erfindet Radio neu. Höre Radioshows, Podcasts und DJ Mixe wann immer Du willst.</description>
+    <platform>all</platform>
+    <language></language>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+    <forum>http://forum.xbmc.org/showthread.php?tid=116386</forum>
+    <source>https://github.com/jackyNIX/xbmc-The Mix Tunes-plugin</source>
+  </extension>
+</addon>                       

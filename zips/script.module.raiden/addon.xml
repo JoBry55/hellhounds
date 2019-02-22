@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="script.module.raiden" name="Retro TV" provider-name="sos" version="0.1.2">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0" />
+        <import addon="script.module.m7lib" version="0.1.0" />
+    </requires>
+    <extension library="default.py" point="xbmc.python.pluginsource">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Raiden 24-7</summary>
+        <description></description>
+        <platform>all</platform>
+        <forum>https://www.24seven.com</forum>
+        <website>https://www.24seven.com/</website>
+    </extension>
+</addon>
